@@ -1,1 +1,1 @@
-## The repository contains the annotated MiLT dataset, divided into two files: MiLT-POP and MiLT-TI.
+## The repository contains the annotated MINTQA dataset, divided into two files: MINTQA-POP and MINTQA-TI.
