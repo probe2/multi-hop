@@ -2,13 +2,7 @@
 
 <div align="left">
    <p>
-  <a href='https://www.arxiv.org/abs/2412.17032'><img src='[https://img.shields.io/badge/arXiv-2412.17032-b31b1b](https://img.shields.io/badge/arXiv-2412.17032-b31b1b)'></a>
-  <a href="https://github.com/probe2/multi-hop/issues">
-    <img alt="GitHub Issues" src="https://img.shields.io/github/issues/probe2/multi-hop">
-  </a>
-  <a href="https://github.com/probe2/multi-hop/discussions">
-    <img alt="GitHub Discussions" src="https://img.shields.io/github/discussions/probe2/multi-hop">
-  </a>
+   <a href='https://www.arxiv.org/abs/2412.17032'><img src='https://img.shields.io/badge/arXiv-2412.17032-b31b1b'></a>
   </p>
 </div>
 
